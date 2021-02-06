@@ -4,7 +4,6 @@
 **ahmedabuamra/ahmedabuamra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
 
 - 🔭 I’m currently working on **Zulip.**
 - 🌱 I’m currently learning **Software architecture.**
@@ -15,3 +14,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabuamra&layout=compact)
 ![Stats](https://github-readme-stats.vercel.app/api?username=ahmedabuamra&count_private=true&show_icons=true)
+-->
